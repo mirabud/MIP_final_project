@@ -3,8 +3,8 @@
 
 There are two goals of this project:
 1. Loading and visualizing DICOM files, where the objectives are:
-1.2 Visualize them with the third-party software - 3D Slicer;
-1.3 Load, read, process, and sort CT files and its segmentations. Additionally, rearrange them using DICOM headers.
+- Visualize them with the third-party software - 3D Slicer;
+- Load, read, process, and sort CT files and its segmentations. Additionally, rearrange them using DICOM headers.
 1.4 Create an animation, showing a rotating Maximum Intensity Projection (MIP) on the coronal-sagittal planes, visualizing the masks. 
 2. 3-D Image Segmentation, where the objectives are:
 2.1 Extract the bounding box and centroid of a tumor mask;
