@@ -15,4 +15,4 @@ The project is focused on the tumor in the liver of the patient. There is folder
 
 ### Structure of the directory
 
-The directory contains of the main Jupiter file, containing implementations for both task 1 and task 2, and "results" folder, containing the PNG frames and the animation of rotated MIP on coronal plane, visualizing the masks.
+The directory contains of 2 helper files: task1.py and task2.py, containing all functions for task 1 and task 2 respectively, and the main Jupiter file, containing the implementations of the helper documents, and "results" folder, containing the PNG frames and the animation of rotated MIP on coronal plane, visualizing the masks.
